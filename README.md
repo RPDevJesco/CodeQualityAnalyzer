@@ -1,10 +1,3 @@
-1. Intrinsic Code Quality (Language-Agnostic Metrics)
-2. Eliminating Subjectivity in Design
-3. Security & Reliability (Zero Tolerance)
-4. Pragmatic Thresholds
-5. Avoiding Tooling Dependencies
-6. Contextual Flexibility
-
 Objectivity: The tool uses concrete, measurable metrics rather than subjective assessments, with specific numeric thresholds for each measure.
 Key Metrics and Thresholds:
 
